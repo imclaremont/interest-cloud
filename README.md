@@ -1,6 +1,6 @@
 # 개인 관심사 시각화(Interest Visualization) 프로젝트
 
-## 프로젝트 소개
+<video src="https://github.com/user-attachments/assets/72f2b481-07f7-4065-a7fa-af8ff5a1627e" autoplay loop muted playsinline width="600"></video>
 
 이 프로젝트는 사용자의 관심사를 워드 클라우드(Word Cloud) 형태로 시각화하고 관리하는 웹 애플리케이션입니다. 사용자들은 관심 키워드를 등록하고, 이를 시각적으로 확인할 수 있으며, 각 키워드는 애니메이션 효과와 함께 표시됩니다. 또한 ChatGPT API를 활용하여 특정 키워드와 관련된 토론 주제를 추천받는 기능도 포함되어 있습니다.
 
